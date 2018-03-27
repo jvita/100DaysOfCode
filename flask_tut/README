@@ -1,0 +1,13 @@
+A simple example using the popular Flask package to create a web app that tracks
+my progress through the #100DaysOfCode challenge. Modelled after the tutorial
+provided at by Miguel Grinbgerg
+
+Link: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
+
+Displays the README and file tree of all projects
+
+To run:
+    export FLASK_APP=microblog.py
+    flask run
+
+To visit the website, default address is: http://127.0.0.1:5000/

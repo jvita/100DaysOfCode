@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Hi, {{ user.username }}! Have fun exploring my #100DaysOfCode!</h1>
+    {% for post in posts %}
+    <div><p><b>{{ post.title }}:</b><br />
+        {% for line in post.body %}
+        {{ line }}<br />
+        {% endfor %}
+    </div>
+    {% endfor %}
+{% endblock %}
