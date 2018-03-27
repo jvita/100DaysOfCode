@@ -1,0 +1,6 @@
+A basic web scraping tool for pulling the titles from a subreddit.
+
+This script was modelled heavily off of a presentation at the UIUC chapter of
+The Hacker Within, given by Mark Kamuda
+
+Link: https://github.com/kamuda1/THW-Presentations/blob/master/DataMiningandWebScrapping.ipynb
