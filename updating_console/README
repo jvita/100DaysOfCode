@@ -1,0 +1,4 @@
+A simple application that builds a table of values in the console that updates
+similar to the bash 'top' command
+
+Honestly, it basically turned into a prettytable exercise...
