@@ -1,0 +1,10 @@
+The goal of this day's challenge will be to take in webcam footage and do some
+basic image processing on it.
+
+A fun extension to this (probably not possible in one day) would be to try to
+draw a picture using my finger via webcam feed
+
+Starter code from a Stackoverflow post:
+    https://stackoverflow.com/questions/2601194/displaying-a-webcam-feed-using-opencv-and-python/11449901#11449901
+
+Unfortunately, this day was basically just spent installing OpenCV...
