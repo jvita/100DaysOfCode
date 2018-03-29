@@ -1,0 +1,7 @@
+Experimenting with CUDA in python, specifically via the unsettlingly simple
+Numba package.
+
+Fashioned after the tutorial at:
+    https://weeraman.com/put-that-gpu-to-good-use-with-python-e5a437168c01
+
+(don't tell anyone that I spent most of the time installing the CUDA drivers)
